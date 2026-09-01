@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Projeto
+projeto/
+
+# Build
+build/
+dist/
+*.spec
+
+# Env&Session
+*.env
+*.session
+
+# Releases
+releases/
+
+# Temp
+temp/
+
+# Output
+output/
+
+# Iss
+*.iss
+
+# Bat
+*.bat
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# XMLs gerados
+XML/
+
+# Ambiente virtual
+venv/
+.env/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
